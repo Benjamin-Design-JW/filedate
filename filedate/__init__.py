@@ -3,7 +3,7 @@
 from .__main__ import *
 from .Utils import *
 
-#-=-=-=-#
+# -=-=-=- #
 
 __author__ = "kubinka0505"
 __credits__ = __author__

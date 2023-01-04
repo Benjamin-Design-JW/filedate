@@ -41,3 +41,6 @@
 - Support for setting dates to directories.
 - Support for copying dates to directories.
 - Bug fixes.
+
+## 2.1
+- Added MacOS support for `filedate.File.set`
