@@ -2,6 +2,7 @@
 Simple, convenient and cross-platform file date changing library. 📅
 
 Forked from https://github.com/kubinka0505/filedate
+- Support for MacOS in File.set(created)
 
 
 ## Installation 🖥️
