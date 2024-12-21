@@ -8,7 +8,7 @@ Forked from https://github.com/kubinka0505/filedate
 ## Installation 🖥️
 
 ```bash
-git clone git://github.com/jelmerwouters/filedate
+git clone https://github.com/benjamin-dcs/filedate
 cd filedate
 python setup.py install
 ```
